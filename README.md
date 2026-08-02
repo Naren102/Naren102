@@ -27,10 +27,14 @@ $ cat ~/lemy/stack.txt
 $ ls ~/projects
 ```
 
-- **[lemy-stack](https://github.com/Naren102/lemy-stack)** — l'ossature des employés IA : agents + intégrations
+En production *(privé)* :
+- **lemy-stack** — l'ossature des employés IA : agents + intégrations
+- **depannexpress** — prise de contact / RDV pour artisans du dépannage
+- **Batigenius** — outil métier BTP
+
+Public :
 - **[churn_guard](https://github.com/Naren102/churn_guard)** — détection & relance des clients qui décrochent
-- **[depannexpress](https://github.com/Naren102/depannexpress)** — prise de contact / RDV pour artisans du dépannage
-- **[Batigenius](https://github.com/Naren102/Batigenius)** — outil métier BTP
+- **[Budget-Express](https://github.com/Naren102/Budget-Express)** — application de gestion de budget
 
 ```
 > contact
