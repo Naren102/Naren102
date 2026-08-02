@@ -1,16 +1,40 @@
-## Hi there 👋
+```
+> whoami
 
-<!--
-**Naren102/Naren102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Naren — fondateur de lemy.agency
+  J'installe des employés IA opérationnels pour PME & entrepreneurs.
 
-Here are some ideas to get you started:
+  [24/7]   standard téléphonique · prise de RDV · relances · support
+  [EU]     données hébergées en Europe — clés côté client
+  [OK]     branchés sur les outils que le client utilise déjà
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # un appel manqué = un client perdu. on règle ça.
+```
+
+**[lemy.agency](https://lemy.agency)** · **[@NarenMaker](https://x.com/NarenMaker)**
+
+```
+$ cat ~/lemy/stack.txt
+
+  lang      TypeScript · Python
+  web       Next.js · Node.js
+  agents    LLM (Claude, GPT) · function calling · MCP
+  ops       automatisations · téléphonie / agenda / CRM
+  infra     souveraineté des données (UE)
+```
+
+```
+$ ls ~/projects
+```
+
+- **[lemy-stack](https://github.com/Naren102/lemy-stack)** — l'ossature des employés IA : agents + intégrations
+- **[churn_guard](https://github.com/Naren102/churn_guard)** — détection & relance des clients qui décrochent
+- **[depannexpress](https://github.com/Naren102/depannexpress)** — prise de contact / RDV pour artisans du dépannage
+- **[Batigenius](https://github.com/Naren102/Batigenius)** — outil métier BTP
+
+```
+> contact
+```
+
+- **web** — [lemy.agency](https://lemy.agency)
+- **x** — [@NarenMaker](https://x.com/NarenMaker)
